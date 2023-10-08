@@ -1,1 +1,1 @@
-Hello, this is my firsth telegram bot -
+Hello, this is my first telegram bot
